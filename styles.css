@@ -1,0 +1,14 @@
+body{
+    background: rgb(66,5,32);
+    background: radial-gradient(circle, rgba(66,5,32,1) 0%, rgb(0, 0, 0) 100%);
+    color:azure;
+    text-align: center;
+}
+img{
+    filter: grayscale(100%);
+    border-radius: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
